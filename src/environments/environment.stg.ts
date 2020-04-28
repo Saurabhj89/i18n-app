@@ -1,5 +1,5 @@
 export const environment = {
     production: true,
-    name: 'STAGE 1',
+    name: 'STAGE 2',
     baseURL: 'http://qaurl'
   };
