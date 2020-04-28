@@ -1,0 +1,23 @@
+{
+    "header" : {
+        "text" : "English",
+        "home" : "Zuhause",
+        "admin" : "Admin",
+        "products" : "Produkte",
+        "learning" : "Lernen"
+    },
+    "home" : {
+        "text" : "Hallo, das ist Home Component"
+    },
+    "admin" : {
+        "text" :"Hallo, das ist die Admin-Komponente"
+    },
+    "products" : {
+        "text" :"Hallo, das ist die Produktkomponente"
+    },
+    "learning" : {
+        "js" : {
+            "text" :"Hallo, das ist die Javascript-Komponente"
+        }
+    }
+}

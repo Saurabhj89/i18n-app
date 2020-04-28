@@ -1,0 +1,10 @@
+.active {
+    font-weight: bold;
+    color: Red;
+}
+
+/* :host div{
+    border: 2px solid dimgray;
+    display: block;
+    padding: 20px;
+} */

@@ -1,0 +1,23 @@
+{
+    "header" : {
+        "text" : "English",
+        "home" : "Home",
+        "admin" : "Admin",
+        "products" : "Products",
+        "learning" : "Learning"
+    },
+    "home" : {
+        "text" : "Hi There, This is Home Component"
+    },
+    "admin" : {
+        "text" :"Hi There, This is Admin Component"
+    },
+    "products" : {
+        "text" :"Hi There, This is Products Component"
+    },
+    "learning" : {
+        "js" : {
+            "text" :"Hi There, This is JavaScript Component"
+        }
+    }
+}
