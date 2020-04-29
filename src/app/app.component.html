@@ -4,6 +4,7 @@
 </div>
 <router-outlet></router-outlet>
 <div style="clear: both"></div>
+<p>history: {{currentUrl$ | async}}</p>
 <!--
 <div *ngFor="let a of arr | sort">
   val = {{a}} <br/>
